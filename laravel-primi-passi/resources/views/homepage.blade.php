@@ -18,6 +18,8 @@
 <body>
 
     <h1 class="red">HELLO WORLD</h1>
+    <h1 class="red"> {{ $testo }} </h1>
+
 
 </body>
 
